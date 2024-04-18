@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import "./Companies.css";
 
 import Prologis from "../../assets/prologis.png";
