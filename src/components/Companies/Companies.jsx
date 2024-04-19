@@ -8,12 +8,12 @@ import Realty from "../../assets/realty.png";
 
 const Companies = () => {
   return (
-    <section>
+    <section className="c-wrapper">
       <div className="paddings innerWidth flexCenter c-container">
-        <img src={Prologis} alt="" />
-        <img src={Tower} alt="" />
-        <img src="" alt="" />
-        <img src="" alt="" />
+        <img src={Prologis} alt="Prologis" />
+        <img src={Tower} alt="Tower" />
+        <img src={Equinix} alt="Equinix" />
+        <img src={Realty} alt="Realty" />
       </div>
     </section>
   );
